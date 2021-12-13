@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Rafael Reis
 
-- 🏦 Eu trabalho com analise de desenvolvimento no Bradesco
-- 👨‍🎓 Sou formado em Sistemas de Informação com especialização em Experiência do Usuário
-- 📚 Eu estudo React pela Rocketseat 🚀 e sou apaixonado por UX 🦄
+- 🏦 Trabalho com analise de desenvolvimento no Bradesco
+- 👨‍🎓 Formado em Sistemas de Informação com especialização em Experiência do Usuário
+- 📚 Estudo React pela Rocketseat 🚀 e sou apaixonado por UX 🦄
 
 <div align="center">
   <a href="https://github.com/rafael-araujo-reis">
