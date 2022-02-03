@@ -2,7 +2,7 @@
 
 - 🏦 Trabalho com analise de desenvolvimento no Bradesco
 - 👨‍🎓 Formado em Sistemas de Informação com especialização em Experiência do Usuário
-- 📚 Estudo React pela Rocketseat 🚀 e sou apaixonado por UX 🦄
+- 📚 Estudo ReactJS pela Rocketseat 🚀 e prezo muito pela experiência do usuário (UX) 🦄
 
 <div align="center">
   <a href="https://github.com/rafael-araujo-reis">
