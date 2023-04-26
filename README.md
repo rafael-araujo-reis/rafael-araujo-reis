@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rafael Reis
 
-- 🏦 Trabalho com analise de desenvolvimento no Itaú
+- 🏦 Trabalho com engenheiro de software front-end no Itaú
 - 👨‍🎓 Formado em Sistemas de Informação com especialização em Experiência do Usuário
 - 📚 Estudo ReactJS e Angular pela Rocketseat, Alura e conteúdos na YouTube 🚀 e prezo muito pela experiência do usuário (UX) 🦄
 
