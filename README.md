@@ -13,6 +13,7 @@
   
   ## Técnologias atuantes
   <div style="display: block; padding: 2rem" align="center">
+  <br>
             <img alt=“icone do javascript” height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
             <img alt=“icone do typescript” height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
             <img alt=“icone da aws” height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -26,6 +27,7 @@
   
   ## Ferramentas utilizadas
  <div style="display: block; padding: 2rem" align="center">
+ <br>
               <img alt=“icone do git”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
             <img alt=“icone do GitHub”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
             <img alt=“icone do splunk”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
