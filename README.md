@@ -9,6 +9,10 @@
   <a href="https://github.com/rafael-araujo-reis">
   <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=rafael-araujo-reis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-araujo-reis&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <img loading="lazy" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-araujo-reis&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="200rem" src="https://github-readme-stats.vercel.app/api?username=rafael-araujo-reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
   
   ## Técnologias atuantes
