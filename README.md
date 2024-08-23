@@ -43,6 +43,13 @@
             <img alt=“icone do android studio” height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   </div>
 
+  ## O que estou aprendendo
+   <div style="display: block; padding: 2rem" align="center">
+ <br>
+             <img alt=“icone do java” height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+            <img alt=“icone do maven”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+ </div>
+
 
   ## Meus contatos
   <div style="display: block; padding: 2rem" align="center">
