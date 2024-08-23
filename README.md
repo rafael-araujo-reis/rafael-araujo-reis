@@ -5,11 +5,12 @@
 - 📱 Estudei pela programação pela Rocketseat e Alura
 - 🚀 Prezo muito pela Experiência do Usuário (UX) e por acessibilidade (A11Y) 
 
-  <div style="display: block; padding: 2rem" align="center">
+  <div style="display: flex; padding: 2rem; gap:1rem" align="center">
   <br>
 
+  <img loading="lazy" height="200rem" src="https://github-readme-stats.vercel.app/api?username=rafael-araujo-reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   <img loading="lazy" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-araujo-reis&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="200rem" src="https://github-readme-stats.vercel.app/api?username=rafael-araujo-reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
   
