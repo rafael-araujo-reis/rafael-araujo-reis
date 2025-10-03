@@ -1,61 +1,39 @@
-### Olá! Eu sou o Rafael Reis
+<div style="margin-top:50px"></div>
 
-- 🏦 Trabalho com Engenheiro de Software Front-end no Itaú
-- 👨‍🎓 Sou formado em Sistemas de Informação
-- 📱 Estudei pela programação pela Rocketseat e Alura
-- 🚀 Prezo muito pela Experiência do Usuário (UX) e por acessibilidade (A11Y) 
+# Hello, I'm Rafael Reis, FrontEnd Developer
 
-  <div style="display: flex; padding: 2rem; gap:1rem" align="center">
-  <br>
+<br>
 
-  <img loading="lazy" height="200rem" src="https://github-readme-stats.vercel.app/api?username=rafael-araujo-reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## 📝 About Me
+<h3>
+  I'm Front End Software Engineer, I worked at banks Bradesco, Itaú, PicPay. With a degree in Information Systems. I’ve also studied programming through platforms like Rocketseat and Alura
+I place great emphasis on user experience (UX) and pay close attention to accessibility practices (A11Y)
+</h3>
 
-  <img loading="lazy" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-araujo-reis&layout=compact&langs_count=7&theme=dracula"/>
+<br>
 
-</div>
-  
-  ## Técnologias atuantes
-  <div style="display: block; padding: 2rem" align="center">
-  <br>
-            <img alt=“icone do javascript” height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-            <img alt=“icone do typescript” height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-            <img alt=“icone da aws” height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-            <img alt=“icone do angular” height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-            <img alt=“icone do css” height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-            <img alt=“icone do sass” height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-            <img alt=“icone do html” height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-            <img alt=“icone do jest”  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-  	    <img alt=“icone do node js”  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-</div>
-  
-  ## Ferramentas utilizadas
- <div style="display: block; padding: 2rem" align="center">
- <br>
-              <img alt=“icone do git”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-            <img alt=“icone do GitHub”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-            <img alt=“icone do splunk”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
-            <img alt=“icone do insomnia”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-            <img alt=“icone do postman”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-            <img alt=“icone do graffata” height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
-            <img alt=“icone do docker” height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-            <img alt=“icone do firma” height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-            <img alt=“icone do jira”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-            <img alt=“icone do bamboo” height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original.svg" />
-            <img alt=“icone do bitbucket”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
-            <img alt=“icone do confluence”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" />
-            <img alt=“icone do android studio” height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  </div>
+### <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"/> Technologies That I Know
 
-  ## O que estou aprendendo
-   <div style="display: block; padding: 2rem" align="center">
- <br>
-             <img alt=“icone do java” height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-            <img alt=“icone do maven”  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
- </div>
+<p align="">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,angular,html,css,sass,jest,nodejs,git,github,aws,postman,docker,figma,gitlab,grafana,bitbucket,xd,npm&theme=light" />
+</p>
+<br>
+<br>
+<br>
 
 
-  ## Meus contatos
-  <div style="display: block; padding: 2rem" align="center">
+### 📫 Connect With Me  
+  <div style="display: block; padding: 2rem">
     <a href="mailto:rafa.araujoreis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafael-araujo-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+  <a href="https://www.linkedin.com/in/rafael-araujo-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
+
+<br>
+<br>
+<br>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-araujo-reis&theme=radical" />
+</p>
