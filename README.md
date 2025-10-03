@@ -1,6 +1,6 @@
 <div style="margin-top:50px"></div>
 
-# Hello, I'm Rafael Reis, FrontEnd Developer
+# Hi, I'm Rafael Reis. I'm a Front End Developer.
 
 <br>
 
