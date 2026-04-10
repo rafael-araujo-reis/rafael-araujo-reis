@@ -1,13 +1,19 @@
 <div style="margin-top:50px"></div>
 
-# Hi, I'm Rafael Reis. I'm a Front End Developer.
+# Hi, how are you? 👋🏽
+# My name is Rafael Reis and I'm a Front End Developer.
 
 <br>
 
 ## 📝 About Me
 <h3>
-  I'm Front End Software Engineer, I worked at banks Bradesco, Itaú, PicPay. With a degree in Information Systems. I’ve also studied programming through platforms like Rocketseat and Alura
-I place great emphasis on user experience (UX) and pay close attention to accessibility practices (A11Y)
+I have worked in technology for over 15 years, with the last 7 years as a Front-End Developer.
+I have worked at banks such as Bradesco, Itaú, PicPay, and Santander, as well as at consulting companies.
+
+Many of the projects I have worked on are in internal repositories 🥲, which is quite common.
+I have a degree in Information Systems and have also studied programming through platforms like Rocketseat and Alura.
+
+I place great emphasis on user experience (UX) and pay close attention to accessibility practices (A11Y).
 </h3>
 
 <br>
