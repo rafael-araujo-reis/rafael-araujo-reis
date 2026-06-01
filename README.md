@@ -1,45 +1,101 @@
-<div style="margin-top:50px"></div>
+# Hi there 👋
 
-# Hi, how are you? 👋🏽
-# My name is Rafael Reis and I'm a Front End Developer.
+## Rafael Reis
 
-<br>
+### Senior Frontend Engineer | Angular Specialist | Enterprise Applications | Design Systems | Accessibility
 
-## 📝 About Me
-<h3>
-I have worked in technology for over 15 years, with the last 7 years as a Front-End Developer.
-I have worked at banks such as Bradesco, Itaú, PicPay, and Santander, as well as at consulting companies.
-
-Many of the projects I have worked on are in internal repositories 🥲, which is quite common.
-I have a degree in Information Systems and have also studied programming through platforms like Rocketseat and Alura.
-
-I place great emphasis on user experience (UX) and pay close attention to accessibility practices (A11Y).
-</h3>
-
-<br>
-
-### <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"/> Technologies That I Know
-
-<p align="">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,angular,html,css,sass,jest,nodejs,git,github,aws,postman,docker,figma,gitlab,grafana,bitbucket,xd,npm&theme=light" />
+<p align="left">
+  <img src="https://img.shields.io/badge/15%2B%20Years-Technology-blue" />
+  <img src="https://img.shields.io/badge/7%2B%20Years-Frontend-success" />
+  <img src="https://img.shields.io/badge/Angular-Specialist-red" />
+  <img src="https://img.shields.io/badge/A11Y-Accessibility-green" />
+  <img src="https://img.shields.io/badge/Enterprise-Applications-orange" />
 </p>
-<br>
-<br>
-<br>
 
+---
 
-### 📫 Connect With Me  
-  <div style="display: block; padding: 2rem">
-    <a href="mailto:rafa.araujoreis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafael-araujo-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+## 👨‍💻 About Me
 
+Frontend Engineer with 15+ years in technology and over 7 years dedicated to building modern digital experiences.
 
-<br>
-<br>
-<br>
+I have contributed to enterprise solutions for major financial institutions such as Bradesco, Itaú, Santander and PicPay, helping deliver secure, scalable and accessible products used by millions of customers.
 
-### 📊 GitHub Stats
+My experience extends beyond interface development. I actively collaborate with Product Owners, Business Teams, QA, UX and Technical Leads to design solutions, improve development workflows and ensure software quality throughout the delivery lifecycle.
+
+I am passionate about building high-quality user experiences while applying accessibility standards, clean architecture principles and engineering best practices.
+
+---
+
+## 🚀 Core Expertise
+
+* Angular & TypeScript Development
+* Enterprise Frontend Architecture
+* Design Systems
+* Accessibility (WCAG / A11Y)
+* REST API Integrations
+* CI/CD Pipelines
+* Observability & Production Support
+* Mobile Applications (WebView)
+* User Experience (UX)
+* Technical Leadership & Mentoring
+* Code Reviews & Pair Programming
+
+---
+
+## 🛠️ Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,nodejs,jest,git,github,aws,docker,postman,grafana,figma,gitlab,bitbucket,npm&theme=light" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafael-araujo-reis&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-araujo-reis&layout=compact&theme=radical" />
+</p>
+
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-araujo-reis&theme=radical" />
+</p>
+
+---
+
+## 💼 Professional Background
+
+* 15+ years working in technology
+* 7+ years specializing in Frontend Engineering
+* Experience in Banking and Fintech sectors
+* Strong focus on Accessibility and User Experience
+* Enterprise-scale application development
+* CI/CD and DevOps collaboration
+* Solution Design and Technical Decision Making
+* Production Support and Observability
+
+---
+
+## 🌐 Open Source & Personal Projects
+
+Most of the projects I have worked on throughout my career are maintained in private repositories, which is common in banking and consulting environments.
+
+This profile contains personal projects, studies, experiments and open-source contributions that showcase my technical interests, engineering practices and continuous learning journey.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:rafa.araujoreis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/rafael-araujo-reis" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://wa.me/5511954329283" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
